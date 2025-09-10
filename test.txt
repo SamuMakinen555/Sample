@@ -8,3 +8,4 @@ Neljäs rivi tekstiä.
 
 Ja uudessa branchissa muutellaan leikisti värejä vihreästä siniseksi.
 
+Ja sitten branchit on sulautettu yhteen.
